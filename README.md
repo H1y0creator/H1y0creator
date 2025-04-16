@@ -1,7 +1,7 @@
 ## Olá, me chamo Eryk Leonardo 
 
-- Estou fazendo um jogo 
-- Estou estudando desenvolvimento web em java 
+- Estou fazendo um jogo
+- Aprimorando conhecimentos sobre desenvolvimento web até o full stack
 - erykleonardoreal@gmail.com
 
     <h2>GitHub </h2>
