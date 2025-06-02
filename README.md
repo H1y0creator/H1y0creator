@@ -14,6 +14,7 @@
       </a>
     </div>
     <div style="margin-top: 20px; display: flex; gap: 20px;">
+        <h2>Linguagens e tecnologias que uso:</h2>
       <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Icon" />
        <img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
             <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
